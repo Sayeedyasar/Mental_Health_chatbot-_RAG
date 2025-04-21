@@ -1,0 +1,6 @@
+flask 
+langchain 
+sentence-transformers 
+faiss-cpu
+transformers
+torch
